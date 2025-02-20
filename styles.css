@@ -2,6 +2,21 @@ main {
     background-color: aqua;
 }
 
+header {
+  background-image: url(./bg.gif);
+  background-repeat: no-repeat; /* Evita la repetición */
+  background-position: center;  /* Centra la imagen */
+  background-size: cover; /* Ajusta la imagen para cubrir todo el header */
+  height: 500px;
+}
+
+.title {
+  font-size: 80;
+  color: #fff;
+  width: 100px;
+  background-color: transparent;
+}
+
 /*Tarjetas*/
 
 .cardBox {
