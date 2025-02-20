@@ -129,7 +129,7 @@ a:hover {
 }
 
 .cardBox:nth-child(3) .card .back {
-  background: cornflowerblue;
+  background: rgb(2, 108, 31);
 }
 
 .cardBox:nth-child(4) .card .back {
